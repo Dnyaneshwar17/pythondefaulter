@@ -1,4 +1,4 @@
-   class SampleDemo():
+class SampleDemo():
 
     # def __init__(self, value):
     #     self.value = value
